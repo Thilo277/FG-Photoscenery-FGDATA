@@ -1,0 +1,1669 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2.xsd">
+  <file original="" source-language="en-US" target-language="ru" datatype="plaintext" xml:space="preserve">
+    <body>
+      <group restype="x-trolltech-linguist-context" resname="menu">
+        <trans-unit id="menu/adjust-hud:0" translate="yes" approved="no">
+          <source>Adjust HUD Properties</source>
+          <target>Настройки HUD</target>
+        </trans-unit>
+        <trans-unit id="menu/adjust-lod:0" translate="yes" approved="no">
+          <source>Adjust LOD Ranges</source>
+          <target>Настройки видимости (LOD)</target>
+        </trans-unit>
+        <trans-unit id="menu/ai:0" translate="yes" approved="no">
+          <source>AI</source>
+          <target>ИИ</target>
+        </trans-unit>
+        <trans-unit id="menu/aircraft-center:0" translate="yes" approved="no">
+          <source>Aircraft Center (Experimental)</source>
+          <target>Выбор ЛА (В разработке)</target>
+        </trans-unit>
+        <trans-unit id="menu/aircraft-checklists:0" translate="yes" approved="no">
+          <source>Aircraft Checklists</source>
+          <target>Контрольные карты проверок</target>
+        </trans-unit>
+        <trans-unit id="menu/aircraft-keys:0" translate="yes" approved="no">
+          <source>Aircraft Help</source>
+          <target>Помощь ЛА</target>
+        </trans-unit>
+        <trans-unit id="menu/atc-in-range:0" translate="yes" approved="no">
+          <source>ATC Services in Range</source>
+          <target>Ближайшие наземные службы</target>
+        </trans-unit>
+        <trans-unit id="menu/autopilot:0" translate="yes" approved="no">
+          <source>Autopilot</source>
+          <target>Автопилот</target>
+        </trans-unit>
+        <trans-unit id="menu/autopilot-settings:0" translate="yes" approved="no">
+          <source>Autopilot Settings</source>
+          <target>Настройки автопилота</target>
+        </trans-unit>
+        <trans-unit id="menu/autostart:0" translate="yes" approved="no">
+          <source>Autostart</source>
+          <target>Автозапуск</target>
+        </trans-unit>
+        <trans-unit id="menu/basic-keys:0" translate="yes" approved="no">
+          <source>Basic Simulator Keys</source>
+          <target>Основные клавиши симулятора</target>
+        </trans-unit>
+        <trans-unit id="menu/carrier:0" translate="yes" approved="no">
+          <source>Carrier Controls</source>
+          <target>Управление авианосцем</target>
+        </trans-unit>
+        <trans-unit id="menu/cockpit-view-options:0" translate="yes" approved="no">
+          <source>Cockpit View Options</source>
+          <target>Настройки вида из кабины</target>
+        </trans-unit>
+        <trans-unit id="menu/common-keys:0" translate="yes" approved="no">
+          <source>Common Aircraft Keys</source>
+          <target>Основные клавиши ЛА</target>
+        </trans-unit>
+        <trans-unit id="menu/configure-dev-extension:0" translate="yes" approved="no">
+          <source>Configure Development Extensions</source>
+          <target>Настройки расширений разработчика</target>
+        </trans-unit>
+        <trans-unit id="menu/cycle-gui:0" translate="yes" approved="no">
+          <source>Cycle GUI Style</source>
+          <target>Переключить стиль интерфейса</target>
+        </trans-unit>
+        <trans-unit id="menu/debug:0" translate="yes" approved="no">
+          <source>Debug</source>
+          <target>Отладка</target>
+        </trans-unit>
+        <trans-unit id="menu/development-keys:0" translate="yes" approved="no">
+          <source>Development Keys</source>
+          <target>Клавиши для разработки</target>
+        </trans-unit>
+        <trans-unit id="menu/display-marker:0" translate="yes" approved="no">
+          <source>Display Tutorial Marker</source>
+          <target>Создание уроков</target>
+        </trans-unit>
+        <trans-unit id="menu/doc-browser:0" translate="yes" approved="no">
+          <source>Documentation Browser</source>
+          <target>Документация</target>
+        </trans-unit>
+        <trans-unit id="menu/dump-scene-graph:0" translate="yes" approved="no">
+          <source>Dump Scene Graph</source>
+          <target>Сохранить Scene Graph</target>
+        </trans-unit>
+        <trans-unit id="menu/environment:0" translate="yes" approved="no">
+          <source>Environment</source>
+          <target>Условия</target>
+        </trans-unit>
+        <trans-unit id="menu/environment-settings:0" translate="yes" approved="no">
+          <source>Environment Settings</source>
+          <target>Настройки условий</target>
+        </trans-unit>
+        <trans-unit id="menu/equipment:0" translate="yes" approved="no">
+          <source>Equipment</source>
+          <target>Оборудование</target>
+        </trans-unit>
+        <trans-unit id="menu/exit:0" translate="yes" approved="no">
+          <source>Quit</source>
+          <target>Выход</target>
+        </trans-unit>
+        <trans-unit id="menu/failure-submenu:0" translate="yes" approved="no">
+          <source>--- Failures ---</source>
+          <target>--- Неисправности ---</target>
+        </trans-unit>
+        <trans-unit id="menu/fg1000-mfd:0" translate="yes" approved="no">
+          <source>FG1000 MFD</source>
+          <target>МФИ "FG1000"</target>
+        </trans-unit>
+        <trans-unit id="menu/fg1000-pfd:0" translate="yes" approved="no">
+          <source>FG1000 PFD</source>
+          <target>КПИ "FG1000"</target>
+        </trans-unit>
+        <trans-unit id="menu/fgcom-settings:0" translate="yes" approved="no">
+          <source>FGCom Settings</source>
+          <target>Настройки FGCom</target>
+        </trans-unit>
+        <trans-unit id="menu/file:0" translate="yes" approved="no">
+          <source>File</source>
+          <target>Файл</target>
+        </trans-unit>
+        <trans-unit id="menu/fuel-and-payload:0" translate="yes" approved="no">
+          <source>Fuel and Payload</source>
+          <target>Заправка и загрузка</target>
+        </trans-unit>
+        <trans-unit id="menu/global-weather:0" translate="yes" approved="no">
+          <source>Weather</source>
+          <target>Погода</target>
+        </trans-unit>
+        <trans-unit id="menu/goto-airport:0" translate="yes" approved="no">
+          <source>Select Airport</source>
+          <target>Выбрать аэродром</target>
+        </trans-unit>
+        <trans-unit id="menu/gps:0" translate="yes" approved="no">
+          <source>GPS Settings</source>
+          <target>Настройки GPS</target>
+        </trans-unit>
+        <trans-unit id="menu/help:0" translate="yes" approved="no">
+          <source>Help</source>
+          <target>Помощь</target>
+        </trans-unit>
+        <trans-unit id="menu/help-browser:0" translate="yes" approved="no">
+          <source>Help (opens in browser)</source>
+          <target>Помощь (в браузере)</target>
+        </trans-unit>
+        <trans-unit id="menu/immatriculation:0" translate="yes" approved="no">
+          <source>Immatriculation</source>
+          <target>Бортовой номер</target>
+        </trans-unit>
+        <trans-unit id="menu/input-config:0" translate="yes" approved="no">
+          <source>Mouse Configuration</source>
+          <target>Настройки мыши</target>
+        </trans-unit>
+        <trans-unit id="menu/instrument-failures:0" translate="yes" approved="no">
+          <source>Instrument Failures</source>
+          <target>Неисправности приборов</target>
+        </trans-unit>
+        <trans-unit id="menu/instrument-settings:0" translate="yes" approved="no">
+          <source>Instrument Settings</source>
+          <target>Настройки приборов</target>
+        </trans-unit>
+        <trans-unit id="menu/interface-config:0" translate="yes" approved="no">
+          <source>User-interface Options</source>
+          <target>Настройки интерфейса</target>
+        </trans-unit>
+        <trans-unit id="menu/jetway:0" translate="yes" approved="no">
+          <source>Jetway Settings</source>
+          <target>Настройки телетрапов</target>
+        </trans-unit>
+        <trans-unit id="menu/joystick-config:0" translate="yes" approved="no">
+          <source>Joystick Configuration</source>
+          <target>Настройки джойстика</target>
+        </trans-unit>
+        <trans-unit id="menu/joystick-info:0" translate="yes" approved="no">
+          <source>Joystick Information</source>
+          <target>Информация о джойстике</target>
+        </trans-unit>
+        <trans-unit id="menu/lag-adjust:0" translate="yes" approved="no">
+          <source>Lag Settings</source>
+          <target>Настройки сетевой задержки</target>
+        </trans-unit>
+        <trans-unit id="menu/load-tape:0" translate="yes" approved="no">
+          <source>Load Flight Recorder Tape</source>
+          <target>Загрузить запись полёта</target>
+        </trans-unit>
+        <trans-unit id="menu/local_weather:0" translate="yes" approved="no">
+          <source>Local Weather (Test)</source>
+          <target>Локальная погода (В разработке)</target>
+        </trans-unit>
+        <trans-unit id="menu/location:0" translate="yes" approved="no">
+          <source>Location</source>
+          <target>Расположение</target>
+        </trans-unit>
+        <trans-unit id="menu/logging:0" translate="yes" approved="no">
+          <source>Logging</source>
+          <target>Отладочные сообщения</target>
+        </trans-unit>
+        <trans-unit id="menu/map:0" translate="yes" approved="no">
+          <source>Map</source>
+          <target>Карта</target>
+        </trans-unit>
+        <trans-unit id="menu/map-browser:0" translate="yes" approved="no">
+          <source>Map (opens in browser)</source>
+          <target>Карта (в браузере)</target>
+        </trans-unit>
+        <trans-unit id="menu/map-canvas:0" translate="yes" approved="no">
+          <source>Map (Canvas)</source>
+          <target>Карта (Canvas)</target>
+        </trans-unit>
+        <trans-unit id="menu/menu-about:0" translate="yes" approved="no">
+          <source>About</source>
+          <target>О программе</target>
+        </trans-unit>
+        <trans-unit id="menu/mp-carrier:0" translate="yes" approved="no">
+          <source>MPCarrier Selection</source>
+          <target>Выбор авианосца MPCarrier</target>
+        </trans-unit>
+        <trans-unit id="menu/mp-chat:0" translate="yes" approved="no">
+          <source>Chat Dialog</source>
+          <target>Чат</target>
+        </trans-unit>
+        <trans-unit id="menu/mp-chat-menu:0" translate="yes" approved="no">
+          <source>Chat Menu</source>
+          <target>Быстрый чат</target>
+        </trans-unit>
+        <trans-unit id="menu/mp-list:0" translate="yes" approved="no">
+          <source>Pilot List</source>
+          <target>Список пилотов</target>
+        </trans-unit>
+        <trans-unit id="menu/mp-settings:0" translate="yes" approved="no">
+          <source>Multiplayer Settings</source>
+          <target>Настройки сети</target>
+        </trans-unit>
+        <trans-unit id="menu/multiplayer:0" translate="yes" approved="no">
+          <source>Multiplayer</source>
+          <target>Сеть</target>
+        </trans-unit>
+        <trans-unit id="menu/nasal-console:0" translate="yes" approved="no">
+          <source>Nasal Console</source>
+          <target>Консоль Nasal</target>
+        </trans-unit>
+        <trans-unit id="menu/nasal-repl-interpreter:0" translate="yes" approved="no">
+          <source>Nasal REPL Interpreter</source>
+          <target>REPL-интерпретатор Nasal</target>
+        </trans-unit>
+        <trans-unit id="menu/next-waypoint:0" translate="yes" approved="no">
+          <source>Next Waypoint</source>
+          <target>Следующий пункт маршрута</target>
+        </trans-unit>
+        <trans-unit id="menu/performance-monitor:0" translate="yes" approved="no">
+          <source>Monitor System Performance</source>
+          <target>Измерение производительности</target>
+        </trans-unit>
+        <trans-unit id="menu/pilot-offset:0" translate="yes" approved="no">
+          <source>Adjust View Position</source>
+          <target>Настроить положение камеры</target>
+        </trans-unit>
+        <trans-unit id="menu/position-in-air:0" translate="yes" approved="no">
+          <source>Position Aircraft In Air</source>
+          <target>Переместить ЛА в воздух</target>
+        </trans-unit>
+        <trans-unit id="menu/previous-waypoint:0" translate="yes" approved="no">
+          <source>Previous Waypoint</source>
+          <target>Предыдущий пункт маршрута</target>
+        </trans-unit>
+        <trans-unit id="menu/print-rendering-statistics:0" translate="yes" approved="no">
+          <source>Print Rendering Statistics</source>
+          <target>Показать статистику отрисовки</target>
+        </trans-unit>
+        <trans-unit id="menu/print-scene-info:0" translate="yes" approved="no">
+          <source>Print Visible Scene Info</source>
+          <target>Показать информацию о видимой графике</target>
+        </trans-unit>
+        <trans-unit id="menu/property-browser:0" translate="yes" approved="no">
+          <source>Browse Internal Properties</source>
+          <target>Дерево переменных "property"</target>
+        </trans-unit>
+        <trans-unit id="menu/pushback:0" translate="yes" approved="no">
+          <source>Pushback</source>
+          <target>Тягач</target>
+        </trans-unit>
+        <trans-unit id="menu/radio:0" translate="yes" approved="no">
+          <source>Radio Settings</source>
+          <target>Настройки радио</target>
+        </trans-unit>
+        <trans-unit id="menu/random-attitude:0" translate="yes" approved="no">
+          <source>Random Attitude</source>
+          <target>Случайная ориентация</target>
+        </trans-unit>
+        <trans-unit id="menu/random-failures:0" translate="yes" approved="no">
+          <source>Random Failures</source>
+          <target>Случайные отказы</target>
+        </trans-unit>
+        <trans-unit id="menu/reload-autopilot:0" translate="yes" approved="no">
+          <source>Reload Autopilot</source>
+          <target>Перезагрузить автопилот</target>
+        </trans-unit>
+        <trans-unit id="menu/reload-gui:0" translate="yes" approved="no">
+          <source>Reload GUI</source>
+          <target>Перезагрузить интерфейс</target>
+        </trans-unit>
+        <trans-unit id="menu/reload-hud:0" translate="yes" approved="no">
+          <source>Reload HUD</source>
+          <target>Перезагрузить HUD</target>
+        </trans-unit>
+        <trans-unit id="menu/reload-input:0" translate="yes" approved="no">
+          <source>Reload Input</source>
+          <target>Перезагрузить ввод</target>
+        </trans-unit>
+        <trans-unit id="menu/reload-materials:0" translate="yes" approved="no">
+          <source>Reload Materials</source>
+          <target>Перезагрузить текстуры</target>
+        </trans-unit>
+        <trans-unit id="menu/reload-model:0" translate="yes" approved="no">
+          <source>Reload Aircraft Model</source>
+          <target>Перезагрузить визуальную модель</target>
+        </trans-unit>
+        <trans-unit id="menu/reload-network:0" translate="yes" approved="no">
+          <source>Reload Network</source>
+          <target>Перезагрузить сеть</target>
+        </trans-unit>
+        <trans-unit id="menu/reload-panel:0" translate="yes" approved="no">
+          <source>Reload Panel</source>
+          <target>Перезагрузить панель</target>
+        </trans-unit>
+        <trans-unit id="menu/reload-scenery:0" translate="yes" approved="no">
+          <source>Reload Scenery</source>
+          <target>Перезагрузить местность</target>
+        </trans-unit>
+        <trans-unit id="menu/rembrandt-buffers-choice:0" translate="yes" approved="no">
+          <source>Select Rendering Buffers</source>
+          <target>Выбрать графические буферы</target>
+        </trans-unit>
+        <trans-unit id="menu/rendering-buffers:0" translate="yes" approved="no">
+          <source>Hide/Show Rendering Buffers</source>
+          <target>Показать/скрыть графические буферы</target>
+        </trans-unit>
+        <trans-unit id="menu/rendering-options:0" translate="yes" approved="no">
+          <source>Rendering Options</source>
+          <target>Настройки графики</target>
+        </trans-unit>
+        <trans-unit id="menu/replay:0" translate="yes" approved="no">
+          <source>Instant Replay</source>
+          <target>Воспроизведение записи</target>
+        </trans-unit>
+        <trans-unit id="menu/reset:0" translate="yes" approved="no">
+          <source>Reset</source>
+          <target>Сброс</target>
+        </trans-unit>
+        <trans-unit id="menu/route-manager:0" translate="yes" approved="no">
+          <source>Route Manager</source>
+          <target>Route Manager</target>
+        </trans-unit>
+        <trans-unit id="menu/save-tape:0" translate="yes" approved="no">
+          <source>Save Flight Recorder Tape</source>
+          <target>Сохранить запись полёта</target>
+        </trans-unit>
+        <trans-unit id="menu/scenario:0" translate="yes" approved="no">
+          <source>Traffic and Scenario Settings</source>
+          <target>Настройки трафика и сценариев</target>
+        </trans-unit>
+        <trans-unit id="menu/select-livery:0" translate="yes" approved="no">
+          <source>Select Livery</source>
+          <target>Схемы окраски</target>
+        </trans-unit>
+        <trans-unit id="menu/show-hide-yokes:0" translate="yes" approved="no">
+          <source>Show/hide yokes</source>
+          <target>Показать/скрыть штурвалы</target>
+        </trans-unit>
+        <trans-unit id="menu/snap-shot:0" translate="yes" approved="no">
+          <source>Screenshot</source>
+          <target>Снимок экрана</target>
+        </trans-unit>
+        <trans-unit id="menu/snap-shot-dir:0" translate="yes" approved="no">
+          <source>Screenshot Directory</source>
+          <target>Папка снимков экрана</target>
+        </trans-unit>
+        <trans-unit id="menu/sound-config:0" translate="yes" approved="no">
+          <source>Sound Configuration</source>
+          <target>Настройки звука</target>
+        </trans-unit>
+        <trans-unit id="menu/statistics-display:0" translate="yes" approved="no">
+          <source>Cycle On-Screen Statistics</source>
+          <target>Переключить отображаемую статистику</target>
+        </trans-unit>
+        <trans-unit id="menu/stereoscopic-options:0" translate="yes" approved="no">
+          <source>Stereoscopic View Options</source>
+          <target>Настройки стереоскопии</target>
+        </trans-unit>
+        <trans-unit id="menu/stopwatch:0" translate="yes" approved="no">
+          <source>Stopwatch</source>
+          <target>Секундомер</target>
+        </trans-unit>
+        <trans-unit id="menu/swift_connection:0" translate="yes" approved="no">
+          <source>swift Connection</source>
+          <target>Подключение к swift</target>
+        </trans-unit>
+        <trans-unit id="menu/system-failures:0" translate="yes" approved="no">
+          <source>System Failures</source>
+          <target>Неисправности систем</target>
+        </trans-unit>
+        <trans-unit id="menu/tanker:0" translate="yes" approved="no">
+          <source>Tanker Controls</source>
+          <target>Управление заправщиком</target>
+        </trans-unit>
+        <trans-unit id="menu/terrasync:0" translate="yes" approved="no">
+          <source>Scenery Download</source>
+          <target>Загрузка местности</target>
+        </trans-unit>
+        <trans-unit id="menu/tiller-steering:0" translate="yes" approved="no">
+          <source>Tiller Steering</source>
+          <target>Рукоятка руления</target>
+        </trans-unit>
+        <trans-unit id="menu/time-settings:0" translate="yes" approved="no">
+          <source>Time Settings</source>
+          <target>Настройки времени</target>
+        </trans-unit>
+        <trans-unit id="menu/toggle-fullscreen:0" translate="yes" approved="no">
+          <source>Toggle Fullscreen</source>
+          <target>На весь экран</target>
+        </trans-unit>
+        <trans-unit id="menu/toggle-glide-slope:0" translate="yes" approved="no">
+          <source>Toggle Glide Slope Tunnel</source>
+          <target>Показать/скрыть подсказку глиссады</target>
+        </trans-unit>
+        <trans-unit id="menu/tower-position:0" translate="yes" approved="no">
+          <source>Tower Position</source>
+          <target>Расположение башни</target>
+        </trans-unit>
+        <trans-unit id="menu/tutorial-start:0" translate="yes" approved="no">
+          <source>Tutorials</source>
+          <target>Уроки</target>
+        </trans-unit>
+        <trans-unit id="menu/view:0" translate="yes" approved="no">
+          <source>View</source>
+          <target>Вид</target>
+        </trans-unit>
+        <trans-unit id="menu/view-options:0" translate="yes" approved="no">
+          <source>View Options</source>
+          <target>Настройки видов</target>
+        </trans-unit>
+        <trans-unit id="menu/wildfire-settings:0" translate="yes" approved="no">
+          <source>Wildfire Settings</source>
+          <target>Настройки лесных пожаров</target>
+        </trans-unit>
+        <trans-unit id="menu/wingman:0" translate="yes" approved="no">
+          <source>Wingman Controls</source>
+          <target>Управление ведомым</target>
+        </trans-unit>
+        <trans-unit id="menu/write-video-config:0" translate="yes" approved="no">
+          <source>Save Video Configuration</source>
+          <target>Сохранить конфигурацию видео</target>
+        </trans-unit>
+      </group>
+      <group restype="x-trolltech-linguist-context" resname="options">
+        <trans-unit id="options/AV400-desc:0" translate="yes" approved="yes">
+          <source>Emit the Garmin AV400 protocol required to drive a Garmin 196/296 series GPS</source>
+          <target>Выводить протокол "Garmin AV400" для GPS типа "Garmin 196/296"</target>
+        </trans-unit>
+        <trans-unit id="options/AV400Sim-desc:0" translate="yes" approved="yes">
+          <source>Emit the set of AV400 strings required to drive a Garmin 400-series GPS from FlightGear</source>
+          <target>Выводить набор строк "AV400" для GPS типа "Garmin 400"</target>
+        </trans-unit>
+        <trans-unit id="options/adf1-desc:0" translate="yes" approved="yes">
+          <source>Set the ADF1 radio frequency, optionally preceded by a card rotation.</source>
+          <target>Задать частоту АРК1, перед ней можно указать поворот картушки.</target>
+        </trans-unit>
+        <trans-unit id="options/adf2-desc:0" translate="yes" approved="yes">
+          <source>Set the ADF2 radio frequency, optionally preceded by a card rotation.</source>
+          <target>Задать частоту АРК2, перед ней можно указать поворот картушки.</target>
+        </trans-unit>
+        <trans-unit id="options/aero-desc:0" translate="yes" approved="yes">
+          <source>Select aircraft aerodynamics model to load</source>
+          <target>Выбрать модель динамики</target>
+        </trans-unit>
+        <trans-unit id="options/ai-scenario:0" translate="yes" approved="yes">
+          <source>Add and enable a new scenario. Multiple options are allowed.</source>
+          <target>Добавить и включить новый сценарий. Разрешено использовать этот параметр многократно.</target>
+        </trans-unit>
+        <trans-unit id="options/aircraft-desc:0" translate="yes" approved="yes">
+          <source>Select an aircraft profile as defined by a top level &lt;name&gt;-set.xml</source>
+          <target>Выбрать тип ЛА по названию &lt;тип&gt;-set.xml</target>
+        </trans-unit>
+        <trans-unit id="options/aircraft-dir-desc:0" translate="yes" approved="yes">
+          <source>Specify the exact directory to use for the aircraft (normally not required, but may be useful). Interpreted relatively to the current directory. Causes the &lt;path-cache&gt; from autosave_X_Y.xml, as well as --fg-aircraft and the FG_AIRCRAFT environment variable to be bypassed.</source>
+          <target>Задать путь поиска ЛА (обычно не требуется, но может быть полезным) относительно текущей директории. Приводит к тому, что &lt;path-cache&gt; из autosave_X_Y.xml, а так же --fg-aircraft и переменная окружения FG_AIRCRAFT не используются.</target>
+        </trans-unit>
+        <trans-unit id="options/aircraft-model-options:0" translate="yes" approved="yes">
+          <source>Aircraft model directory (UIUC FDM ONLY)</source>
+          <target>Директория ЛА (ТОЛЬКО ДЛЯ ДИНАМИКИ "UIUC")</target>
+        </trans-unit>
+        <trans-unit id="options/aircraft-options:0" translate="yes" approved="yes">
+          <source>Aircraft</source>
+          <target>ЛА</target>
+        </trans-unit>
+        <trans-unit id="options/airport-desc:0" translate="yes" approved="yes">
+          <source>Specify starting position relative to an airport</source>
+          <target>Задать начальное положение относително аэродрома</target>
+        </trans-unit>
+        <trans-unit id="options/altitude-desc:0" translate="yes" approved="yes">
+          <source>Starting altitude</source>
+          <target>Начальная высота</target>
+        </trans-unit>
+        <trans-unit id="options/arm-desc:0" translate="yes" approved="yes">
+          <source>Specify a multiplier for the aspect ratio.</source>
+          <target>Задать множитель для соотношения сторон.</target>
+        </trans-unit>
+        <trans-unit id="options/atcsim-desc:0" translate="yes" approved="yes">
+          <source>Open connection using the ATC sim protocol (atc610x)</source>
+          <target>Начать соединение с протоколом "ATC sim" ("atc610x")</target>
+        </trans-unit>
+        <trans-unit id="options/atlas-desc:0" translate="yes" approved="yes">
+          <source>Open connection using the Atlas protocol</source>
+          <target>Начать соединение с протоколом "Atlas"</target>
+        </trans-unit>
+        <trans-unit id="options/audio-options:0" translate="yes" approved="yes">
+          <source>Audio Options</source>
+          <target>Звук</target>
+        </trans-unit>
+        <trans-unit id="options/avionics-options:0" translate="yes" approved="yes">
+          <source>Avionics Options</source>
+          <target>БРЭО</target>
+        </trans-unit>
+        <trans-unit id="options/bpp-desc:0" translate="yes" approved="yes">
+          <source>Specify the bits per pixel</source>
+          <target>Задать число битов на точку</target>
+        </trans-unit>
+        <trans-unit id="options/browser-app-desc:0" translate="yes" approved="yes">
+          <source>Specify path to your web browser</source>
+          <target>Задать путь к веб-браузеру</target>
+        </trans-unit>
+        <trans-unit id="options/callsign-desc:0" translate="yes" approved="yes">
+          <source>assign a unique name to a player</source>
+          <target>Сменить позывной</target>
+        </trans-unit>
+        <trans-unit id="options/carrier-abeam-desc:0" translate="yes" approved="yes">
+          <source>Start on downwind abeam the selected carrier (must also specify a carrier)</source>
+          <target>Начать на траверзе авианосца (необходимо также указать авианосец)</target>
+        </trans-unit>
+        <trans-unit id="options/carrier-desc:0" translate="yes" approved="yes">
+          <source>Specify starting position on an AI carrier</source>
+          <target>Задать начальное положение на ИИ-авианосце</target>
+        </trans-unit>
+        <trans-unit id="options/ceiling-desc:0" translate="yes" approved="yes">
+          <source>Create an overcast ceiling, optionally with a specific thickness (defaults to 2000 ft).</source>
+          <target>Задать нижнюю границу сплошной облачности, можно также указать толщину в фт (по умолчанию 2000 фт).</target>
+        </trans-unit>
+        <trans-unit id="options/com1-desc:0" translate="yes" approved="yes">
+          <source>Set the COM1 radio frequency</source>
+          <target>Задать частоту УКВ1</target>
+        </trans-unit>
+        <trans-unit id="options/com2-desc:0" translate="yes" approved="yes">
+          <source>Set the COM2 radio frequency</source>
+          <target>Задать частоту УКВ2</target>
+        </trans-unit>
+        <trans-unit id="options/config-desc:0" translate="yes" approved="yes">
+          <source>Load additional properties from path</source>
+          <target>Задать дополнительные переменные "property" из файла</target>
+        </trans-unit>
+        <trans-unit id="options/console-desc:0" translate="yes" approved="yes">
+          <source>Display console (Windows specific)</source>
+          <target>Показать консоль (только Windows)</target>
+        </trans-unit>
+        <trans-unit id="options/debugging-options:0" translate="yes" approved="yes">
+          <source>Debugging Options</source>
+          <target>Отладка</target>
+        </trans-unit>
+        <trans-unit id="options/disable-ai-models-desc:0" translate="yes" approved="yes">
+          <source>Deprecated option (disable internal AI subsystem)</source>
+          <target>Устаревший параметр (отключить внутреннюю подсистему ИИ)</target>
+        </trans-unit>
+        <trans-unit id="options/disable-ai-traffic-desc:0" translate="yes" approved="yes">
+          <source>Disable artificial traffic.</source>
+          <target>Отключить искусственный трафик</target>
+          <note from="translator">FIXME Original ends with full stop</note>
+        </trans-unit>
+        <trans-unit id="options/disable-anti-alias-hud-desc:0" translate="yes" approved="yes">
+          <source>Disable anti-aliased HUD</source>
+          <target>Отключить сглаживание HUD</target>
+        </trans-unit>
+        <trans-unit id="options/disable-auto-coordination-desc:0" translate="yes" approved="yes">
+          <source>Disable auto coordination</source>
+          <target>Отключить автокоординирование</target>
+        </trans-unit>
+        <trans-unit id="options/disable-clock-freeze-desc:0" translate="yes" approved="yes">
+          <source>Clock advances normally</source>
+          <target>Нормальный ход времени</target>
+        </trans-unit>
+        <trans-unit id="options/disable-clouds-desc:0" translate="yes" approved="yes">
+          <source>Disable 2D (flat) cloud layers</source>
+          <target>Отключить 2D (плоскую) облачность</target>
+        </trans-unit>
+        <trans-unit id="options/disable-clouds3d-desc:0" translate="yes" approved="yes">
+          <source>Disable 3D (volumetric) cloud layers</source>
+          <target>Отключить 3D (объёмную) облачность</target>
+        </trans-unit>
+        <trans-unit id="options/disable-distance-attenuation:0" translate="yes" approved="yes">
+          <source>Disable runway light distance attenuation</source>
+          <target>Отключить атмосферное поглощение света огней ВПП</target>
+        </trans-unit>
+        <trans-unit id="options/disable-enhanced-lighting:0" translate="yes" approved="yes">
+          <source>Disable enhanced runway lighting</source>
+          <target>Откючить расширенное освещение ВПП</target>
+        </trans-unit>
+        <trans-unit id="options/disable-fgcom-desc:0" translate="yes" approved="yes">
+          <source>Disable FGCom built-in</source>
+          <target>Отключить встроенный FGCom</target>
+        </trans-unit>
+        <trans-unit id="options/disable-freeze-desc:0" translate="yes" approved="yes">
+          <source>Start in a running state</source>
+          <target>Начать симуляцию сразу</target>
+        </trans-unit>
+        <trans-unit id="options/disable-fuel-freeze-desc:0" translate="yes" approved="yes">
+          <source>Fuel is consumed normally</source>
+          <target>Топливо вырабатывается нормально</target>
+        </trans-unit>
+        <trans-unit id="options/disable-fullscreen-desc:0" translate="yes" approved="yes">
+          <source>Disable fullscreen mode</source>
+          <target>Отключить полноэкранный режим</target>
+        </trans-unit>
+        <trans-unit id="options/disable-horizon-effect:0" translate="yes" approved="yes">
+          <source>Disable celestial body growth illusion near the horizon</source>
+          <target>Отключить эффект увеличения небесных тел у горизонта</target>
+        </trans-unit>
+        <trans-unit id="options/disable-hud-3d-desc:0" translate="yes" approved="yes">
+          <source>Disable 3D HUD</source>
+          <target>Отключить объёмный HUD</target>
+        </trans-unit>
+        <trans-unit id="options/disable-hud-desc:0" translate="yes" approved="yes">
+          <source>Disable Heads Up Display (HUD)</source>
+          <target>Отключить лобовой/шлемный индикатор (HUD)</target>
+        </trans-unit>
+        <trans-unit id="options/disable-mouse-pointer-desc:0" translate="yes" approved="yes">
+          <source>Disable extra mouse pointer</source>
+          <target>Отключить дополнительный курсор мыши</target>
+        </trans-unit>
+        <trans-unit id="options/disable-panel-desc:0" translate="yes" approved="yes">
+          <source>Disable instrument panel</source>
+          <target>Отключить приборную доску</target>
+        </trans-unit>
+        <trans-unit id="options/disable-random-buildings-desc:0" translate="yes" approved="yes">
+          <source>Exclude random buildings objects</source>
+          <target>Отключить случайные наземные объекты: строения</target>
+        </trans-unit>
+        <trans-unit id="options/disable-random-objects-desc:0" translate="yes" approved="yes">
+          <source>Exclude random scenery objects</source>
+          <target>Отключить случайные наземные объекты: прочие</target>
+        </trans-unit>
+        <trans-unit id="options/disable-random-vegetation-desc:0" translate="yes" approved="yes">
+          <source>Exclude random vegetation objects</source>
+          <target>Отключить случайные наземные объекты: растительность</target>
+        </trans-unit>
+        <trans-unit id="options/disable-real-weather-fetch-desc:0" translate="yes" approved="yes">
+          <source>Disable METAR based real weather fetching</source>
+          <target>Отключить получение реальной погоды METAR по сети</target>
+        </trans-unit>
+        <trans-unit id="options/disable-rembrandt-desc:0" translate="yes" approved="yes">
+          <source>Disable Rembrandt rendering</source>
+          <target>Отключить движок "Rembrandt"</target>
+        </trans-unit>
+        <trans-unit id="options/disable-save-on-exit:0" translate="yes" approved="yes">
+          <source>Don't save preferences upon program exit</source>
+          <target>Не сохранять настройки при завершении</target>
+        </trans-unit>
+        <trans-unit id="options/disable-sound-desc:0" translate="yes" approved="yes">
+          <source>Disable sound effects</source>
+          <target>Отключить звуковые эффекты</target>
+        </trans-unit>
+        <trans-unit id="options/disable-specular-highlight:0" translate="yes" approved="yes">
+          <source>Disable specular reflections on textured objects</source>
+          <target>Отключить блеск текстурированных объектов</target>
+        </trans-unit>
+        <trans-unit id="options/disable-splash-screen-desc:0" translate="yes" approved="yes">
+          <source>Disable splash screen</source>
+          <target>Отключить экран приветствия</target>
+        </trans-unit>
+        <trans-unit id="options/disable-terrasync-desc:0" translate="yes" approved="yes">
+          <source>Disable automatic scenery downloads/updates</source>
+          <target>Отключить автоматическую загрузку и обновление местности</target>
+        </trans-unit>
+        <trans-unit id="options/disable-textures-desc:0" translate="yes" approved="yes">
+          <source>Disable textures</source>
+          <target>Отключить текстуры</target>
+        </trans-unit>
+        <trans-unit id="options/disable-wireframe-desc:0" translate="yes" approved="yes">
+          <source>Disable wireframe drawing mode</source>
+          <target>Отключить режим отрисовки "проволочная сетка"</target>
+        </trans-unit>
+        <trans-unit id="options/dme-desc:0" translate="yes" approved="yes">
+          <source>Slave the DME to one of the NAV radios, or set its internal frequency.</source>
+          <target>Связать ДМЕ с одним комплектм ВОР/ИЛС или задать частоту.</target>
+        </trans-unit>
+        <trans-unit id="options/download-dir-desc:0" translate="yes" approved="yes">
+          <source>Base directory to use for aircraft and scenery downloads (the TerraSync scenery directory may be specifically set with --terrasync-dir)</source>
+          <target>Базовая директория для загрузки ЛА и местности (путь местности для TerraSync может быть задан отдельно параметром "--terrasync-dir")</target>
+        </trans-unit>
+        <trans-unit id="options/enable-ai-models-desc:0" translate="yes" approved="yes">
+          <source>Enable AI subsystem (required for multi-player, AI traffic and many other animations)</source>
+          <target>Включить подсистему ИИ (требуется для сетевого режима, ИИ-трафика и многих других анимаций)</target>
+        </trans-unit>
+        <trans-unit id="options/enable-ai-traffic-desc:0" translate="yes" approved="yes">
+          <source>Enable artificial traffic.</source>
+          <target>Включить искусственный трафик</target>
+          <note from="translator">FIXME Original ends with full stop</note>
+        </trans-unit>
+        <trans-unit id="options/enable-anti-alias-hud-desc:0" translate="yes" approved="yes">
+          <source>Enable anti-aliased HUD</source>
+          <target>Включить сглаживание HUD</target>
+        </trans-unit>
+        <trans-unit id="options/enable-auto-coordination-desc:0" translate="yes" approved="yes">
+          <source>Enable auto coordination</source>
+          <target>Включить автокоординирование разворотов</target>
+        </trans-unit>
+        <trans-unit id="options/enable-clock-freeze-desc:0" translate="yes" approved="yes">
+          <source>Do not advance clock</source>
+          <target>Остановить время суток</target>
+        </trans-unit>
+        <trans-unit id="options/enable-clouds-desc:0" translate="yes" approved="yes">
+          <source>Enable 2D (flat) cloud layers</source>
+          <target>Включить 2D (плоскую) облачность</target>
+        </trans-unit>
+        <trans-unit id="options/enable-clouds3d-desc:0" translate="yes" approved="yes">
+          <source>Enable 3D (volumetric) cloud layers</source>
+          <target>Включить 3D (объёмную) облачность</target>
+        </trans-unit>
+        <trans-unit id="options/enable-distance-attenuation:0" translate="yes" approved="yes">
+          <source>Enable runway light distance attenuation</source>
+          <target>Включить атмосферное поглощение света огней ВПП</target>
+        </trans-unit>
+        <trans-unit id="options/enable-enhanced-lighting:0" translate="yes" approved="yes">
+          <source>Enable enhanced runway lighting</source>
+          <target>Вкючить расширенное освещение ВПП</target>
+        </trans-unit>
+        <trans-unit id="options/enable-fgcom-desc:0" translate="yes" approved="yes">
+          <source>Enable FGCom built-in</source>
+          <target>Включить встроенный FGCom</target>
+        </trans-unit>
+        <trans-unit id="options/enable-freeze-desc:0" translate="yes" approved="yes">
+          <source>Start in a frozen state</source>
+          <target>Начать симуляцию в режиме паузы</target>
+        </trans-unit>
+        <trans-unit id="options/enable-fuel-freeze-desc:0" translate="yes" approved="yes">
+          <source>Fuel tank quantity forced to remain constant</source>
+          <target>Уровни топлива не изменяются при выработке</target>
+        </trans-unit>
+        <trans-unit id="options/enable-fullscreen-desc:0" translate="yes" approved="yes">
+          <source>Enable fullscreen mode</source>
+          <target>Включить полноэкранный режим</target>
+        </trans-unit>
+        <trans-unit id="options/enable-horizon-effect:0" translate="yes" approved="yes">
+          <source>Enable celestial body growth illusion near the horizon</source>
+          <target>Включить эффект увеличения небесных тел у горизонта</target>
+        </trans-unit>
+        <trans-unit id="options/enable-hud-3d-desc:0" translate="yes" approved="yes">
+          <source>Enable 3D HUD</source>
+          <target>Включить 3D HUD</target>
+        </trans-unit>
+        <trans-unit id="options/enable-hud-desc:0" translate="yes" approved="yes">
+          <source>Enable Heads Up Display (HUD)</source>
+          <target>Включить лобовой/шлемный индикатор (HUD)</target>
+        </trans-unit>
+        <trans-unit id="options/enable-mouse-pointer-desc:0" translate="yes" approved="yes">
+          <source>Enable extra mouse pointer</source>
+          <target>Включить дополнительный курсор мыши</target>
+        </trans-unit>
+        <trans-unit id="options/enable-mouse-pointer-desc:1" translate="yes" approved="yes">
+          <source>(i.e. for full screen Voodoo based cards)</source>
+          <target>(т.е. для поноэкранного режима видеокарт типа "Voodoo")</target>
+        </trans-unit>
+        <trans-unit id="options/enable-panel-desc:0" translate="yes" approved="yes">
+          <source>Enable instrument panel</source>
+          <target>Включить приборную доску</target>
+        </trans-unit>
+        <trans-unit id="options/enable-random-buildings-desc:0" translate="yes" approved="yes">
+          <source>Include random buildings objects</source>
+          <target>Включить случайные наземные объекты: строения</target>
+        </trans-unit>
+        <trans-unit id="options/enable-random-objects-desc:0" translate="yes" approved="yes">
+          <source>Include random scenery objects</source>
+          <target>Включить случайные наземные объекты: прочие</target>
+        </trans-unit>
+        <trans-unit id="options/enable-random-vegetation-desc:0" translate="yes" approved="yes">
+          <source>Include random vegetation objects</source>
+          <target>Включить случайные наземные объекты: растительность</target>
+        </trans-unit>
+        <trans-unit id="options/enable-real-weather-fetch-desc:0" translate="yes" approved="yes">
+          <source>Enable METAR based real weather fetching (this requires an open internet connection)</source>
+          <target>Включить получение реальной погоды METAR по сети</target>
+        </trans-unit>
+        <trans-unit id="options/enable-rembrandt-desc:0" translate="yes" approved="yes">
+          <source>Enable Rembrandt rendering</source>
+          <target>Включить движок "Rembrandt"</target>
+        </trans-unit>
+        <trans-unit id="options/enable-save-on-exit:0" translate="yes" approved="yes">
+          <source>Allow saving preferences at program exit</source>
+          <target>Разрешить сохранение настроек при завершении</target>
+        </trans-unit>
+        <trans-unit id="options/enable-sound-desc:0" translate="yes" approved="yes">
+          <source>Enable sound effects</source>
+          <target>Включить звуковые эффекты</target>
+        </trans-unit>
+        <trans-unit id="options/enable-specular-highlight:0" translate="yes" approved="yes">
+          <source>Enable specular reflections on textured objects</source>
+          <target>Включить блеск текстурированных объектов</target>
+        </trans-unit>
+        <trans-unit id="options/enable-splash-screen-desc:0" translate="yes" approved="yes">
+          <source>Enable splash screen</source>
+          <target>Включить экран приветствия</target>
+        </trans-unit>
+        <trans-unit id="options/enable-terrasync-desc:0" translate="yes" approved="yes">
+          <source>Enable automatic scenery downloads/updates</source>
+          <target>Включить автоматическую загрузку и обновление местности</target>
+        </trans-unit>
+        <trans-unit id="options/enable-textures-desc:0" translate="yes" approved="yes">
+          <source>Enable textures</source>
+          <target>Включить текстуры</target>
+        </trans-unit>
+        <trans-unit id="options/enable-wireframe-desc:0" translate="yes" approved="yes">
+          <source>Enable wireframe drawing mode</source>
+          <target>Включить режим отрисовки "проволочная сетка"</target>
+        </trans-unit>
+        <trans-unit id="options/environment-options:0" translate="yes" approved="yes">
+          <source>Environment Options</source>
+          <target>Условия</target>
+        </trans-unit>
+        <trans-unit id="options/failure-desc:0" translate="yes" approved="yes">
+          <source>Fail the pitot, static, vacuum, or electrical system (repeat the option for multiple system failures).</source>
+          <target>Смоделировать отказ системы динамического ("pitot"), статического давления ("static"), вакуума ("vacuum") или электрики ("electrical") (допустимо повторение для нескольких систем)</target>
+          <note from="translator">FIXME Original ends with full stop</note>
+        </trans-unit>
+        <trans-unit id="options/fdm-desc:0" translate="yes" approved="yes">
+          <source>Select the core flight dynamics model</source>
+          <target>Выбрать модель динамики</target>
+        </trans-unit>
+        <trans-unit id="options/fdm-desc:1" translate="yes" approved="yes">
+          <source>Can be one of jsb, larcsim, yasim, magic, balloon, ada, external, or null</source>
+          <target>Варианты: "jsb", "larcsim", "yasim", "magic", "balloon", "ada", "external" или "null"</target>
+        </trans-unit>
+        <trans-unit id="options/fdm-options:0" translate="yes" approved="yes">
+          <source>Flight Model</source>
+          <target>Динамика</target>
+        </trans-unit>
+        <trans-unit id="options/features-options:0" translate="yes" approved="yes">
+          <source>Features</source>
+          <target>Функции</target>
+        </trans-unit>
+        <trans-unit id="options/fg-aircraft-desc:0" translate="yes" approved="yes">
+          <source>Specify additional aircraft directory path(s) (alternatively, you can use --aircraft-dir to target a specific aircraft in a given directory)</source>
+          <target>Задать путь/пути к дополнительной директории с ЛА (иначе "--aircraft-dir" для пути к одной модели)</target>
+        </trans-unit>
+        <trans-unit id="options/fg-root-desc:0" translate="yes" approved="yes">
+          <source>Specify the root data path</source>
+          <target>Задать путь к данным FlightGear</target>
+        </trans-unit>
+        <trans-unit id="options/fg-scenery-desc:0" translate="yes" approved="yes">
+          <source>Specify the scenery path(s);</source>
+          <target>Задать путь или пути к местности</target>
+          <note from="translator">FIXME Original ends with semicolon</note>
+        </trans-unit>
+        <trans-unit id="options/fg-scenery-desc:1" translate="yes" approved="yes">
+          <source>Defaults to $FG_ROOT/Scenery</source>
+          <target>По умолчанию: $FG_ROOT/Scenery</target>
+        </trans-unit>
+        <trans-unit id="options/fgviewer-desc:0" translate="yes" approved="yes">
+          <source>Use a model viewer rather than load the entire simulator;</source>
+          <target>Просмотр моделей вместо полной симуляции</target>
+          <note from="translator">FIXME Original ends with a semicolon</note>
+        </trans-unit>
+        <trans-unit id="options/fix-desc:0" translate="yes" approved="yes">
+          <source>Specify starting position relative to a fix</source>
+          <target>Задать начальное положение относительно навигационной точки</target>
+        </trans-unit>
+        <trans-unit id="options/flarm-desc:0" translate="yes" approved="yes">
+          <source>Open connection using the Flarm protocol, which includes NMEA/GPS and traffic reporting messages</source>
+          <target>Начать соединение с протоколом "Flarm", который включает "NMEA/GPS" и отчёты о трафике</target>
+        </trans-unit>
+        <trans-unit id="options/flight-plan-desc:0" translate="yes" approved="yes">
+          <source>Read all waypoints from a file</source>
+          <target>Получить маршрут из файла</target>
+        </trans-unit>
+        <trans-unit id="options/fog-disable-desc:0" translate="yes" approved="yes">
+          <source>Disable fog/haze</source>
+          <target>Отключить туман/дымку</target>
+        </trans-unit>
+        <trans-unit id="options/fog-fastest-desc:0" translate="yes" approved="yes">
+          <source>Enable fastest fog/haze</source>
+          <target>Включить наиболее быстрый туман/дымку</target>
+        </trans-unit>
+        <trans-unit id="options/fog-nicest-desc:0" translate="yes" approved="yes">
+          <source>Enable nicest fog/haze</source>
+          <target>Включить наиболее красивый туман/дымку</target>
+        </trans-unit>
+        <trans-unit id="options/fov-desc:0" translate="yes" approved="yes">
+          <source>Specify field of view angle</source>
+          <target>Задать угол обзора</target>
+        </trans-unit>
+        <trans-unit id="options/fpe-desc:0" translate="yes" approved="yes">
+          <source>Abort on encountering a floating point exception;</source>
+          <target>Аварийный останов по исключению "floating point exception"</target>
+          <note from="translator">FIXME Original ends with semicolon</note>
+        </trans-unit>
+        <trans-unit id="options/garmin-desc:0" translate="yes" approved="yes">
+          <source>Open connection using the Garmin GPS protocol</source>
+          <target>Начать соединение с протоколом "Garmin GPS"</target>
+        </trans-unit>
+        <trans-unit id="options/general-options:0" translate="yes" approved="yes">
+          <source>General Options</source>
+          <target>Общие</target>
+        </trans-unit>
+        <trans-unit id="options/generic-desc:0" translate="yes" approved="yes">
+          <source>Open connection using a predefined communication interface and a preselected communication protocol</source>
+          <target>Начать соединение с пользовательским протоколом ("generic protocol")</target>
+        </trans-unit>
+        <trans-unit id="options/geometry-desc:0" translate="yes" approved="yes">
+          <source>Specify window geometry (640x480, etc)</source>
+          <target>Задать геометрию окна (640x480 и т.п.)</target>
+        </trans-unit>
+        <trans-unit id="options/glideslope-desc:0" translate="yes" approved="yes">
+          <source>Specify flight path angle (can be positive)</source>
+          <target>Задать начальный угол траектории (может быть положительным или отрицательным)</target>
+          <note from="translator">FIXME Original only says "can  be positive"</note>
+        </trans-unit>
+        <trans-unit id="options/heading-desc:0" translate="yes" approved="yes">
+          <source>Specify heading (yaw) angle (Psi)</source>
+          <target>Задать курс (ψ)</target>
+        </trans-unit>
+        <trans-unit id="options/help-desc:0" translate="yes" approved="yes">
+          <source>Show the most relevant command line options</source>
+          <target>Показать самые важные параметры</target>
+        </trans-unit>
+        <trans-unit id="options/httpd-desc:0" translate="yes" approved="yes">
+          <source>Enable http server on the specified address. Specify the port or address:port to bind to.</source>
+          <target>Включить HTTP-сервер на указанном адресе. Допустимые значения: "порт" или "адрес:порт".</target>
+        </trans-unit>
+        <trans-unit id="options/hud-culled-desc:0" translate="yes" approved="yes">
+          <source>Hud displays percentage of triangles culled</source>
+          <target>Показывать в HUD число неотрисованных треугольников</target>
+        </trans-unit>
+        <trans-unit id="options/hud-options:0" translate="yes" approved="yes">
+          <source>Hud Options</source>
+          <target>Лобовой/шлемный индикатор HUD</target>
+        </trans-unit>
+        <trans-unit id="options/hud-tris-desc:0" translate="yes" approved="yes">
+          <source>Hud displays number of triangles rendered</source>
+          <target>Показывать в HUD число отрисовываемых треугольников</target>
+        </trans-unit>
+        <trans-unit id="options/in-air-desc:0" translate="yes" approved="yes">
+          <source>Start in air (implied when using --altitude)</source>
+          <target>Начать симуляцию в воздухе (по умолчанию при использовании "--altitude")</target>
+        </trans-unit>
+        <trans-unit id="options/io-options:0" translate="yes" approved="yes">
+          <source>IO Options</source>
+          <target>Ввод/вывод</target>
+        </trans-unit>
+        <trans-unit id="options/joyclient-desc:0" translate="yes" approved="yes">
+          <source>Open connection to an Agwagon joystick</source>
+          <target>Подключиться к джойстику "Agwagon"</target>
+        </trans-unit>
+        <trans-unit id="options/jpg-httpd-desc:0" translate="yes" approved="yes">
+          <source>Enable screen shot http server on the specified port (replaced by --httpd)</source>
+          <target>Включить HTTP-сервер со снимками экрана на указанном порту (заменено "--httpd")</target>
+        </trans-unit>
+        <trans-unit id="options/jsclient-desc:0" translate="yes" approved="yes">
+          <source>Open connection to a remote joystick</source>
+          <target>Подключиться к удалённому джойстику</target>
+        </trans-unit>
+        <trans-unit id="options/json-report-desc:0" translate="yes" approved="yes">
+          <source>Print a report in JSON format on the standard output, giving information such as the FlightGear version, $FG_ROOT, $FG_HOME, aircraft and scenery paths, etc.</source>
+          <target>Распечатать на стандартный вывод отчёт в формате "JSON" с информацией о версии FlightGear, $FG_ROOT, $FG_HOME, путями к ЛА и местности и проч.</target>
+        </trans-unit>
+        <trans-unit id="options/language-desc:0" translate="yes" approved="yes">
+          <source>Select the language for this session</source>
+          <target>Задать язык для данного сеанса</target>
+        </trans-unit>
+        <trans-unit id="options/lat-desc:0" translate="yes" approved="yes">
+          <source>Starting latitude (south = -)</source>
+          <target>Начальная широта (южная со знаком "-")</target>
+        </trans-unit>
+        <trans-unit id="options/launcher-desc:0" translate="yes" approved="yes">
+          <source>Use GUI launcher</source>
+          <target>Использовать графический начальный экран</target>
+        </trans-unit>
+        <trans-unit id="options/livery-desc:0" translate="yes" approved="yes">
+          <source>Select aircraft livery</source>
+          <target>Выбрать ливрею ЛА</target>
+        </trans-unit>
+        <trans-unit id="options/load-tape-desc:0" translate="yes" approved="yes">
+          <source>Load recording of earlier flightgear session</source>
+          <target>Загрузить запись полёта</target>
+        </trans-unit>
+        <trans-unit id="options/log-class-desc:0" translate="yes" approved="yes">
+          <source>Specify which logging class(es) to use</source>
+          <target>Указать выводимые классы отладочных сообщений</target>
+        </trans-unit>
+        <trans-unit id="options/log-dir-desc:0" translate="yes" approved="yes">
+          <source>Log to directory DIR. The special value 'desktop' causes logging to the desktop (OS-dependent location). This option may be given several times, using a different value each time. Inside the specified directory, the written log file is named FlightGear_YYYY-MM-DD_&lt;num&gt;.log, where &lt;num&gt; takes the values 0, 1, 2, etc.</source>
+          <target>Выводить отладочные сообщения в директорию DIR. Специальное значение "desktop" записывает отладочный вывод на рабочий стол, в зависимости от ОС. Допускается повтор с разными значениями. В указанной директории выходные файлы именуются "FlightGear_YYYY-MM-DD_&lt;№&gt;.log", где "&lt;№&gt;" -- порядковый номер 0, 1, 2 и т.д.</target>
+        </trans-unit>
+        <trans-unit id="options/log-level-desc:0" translate="yes" approved="yes">
+          <source>Specify which logging level to use</source>
+          <target>Указать уровень отладочных сообщений</target>
+        </trans-unit>
+        <trans-unit id="options/lon-desc:0" translate="yes" approved="yes">
+          <source>Starting longitude (west = -)</source>
+          <target>Начальная долгота (западная со знаком "-")</target>
+        </trans-unit>
+        <trans-unit id="options/mach-desc:0" translate="yes" approved="yes">
+          <source>Specify initial mach number</source>
+          <target>Задать начальное число M</target>
+        </trans-unit>
+        <trans-unit id="options/materials-file-desc:0" translate="yes" approved="yes">
+          <source>Specify the materials file used to render the scenery (default: Materials/regions/materials.xml)</source>
+          <target>Задать файл, определяющий текстуры местности (по умолчанию: "Materials/regions/materials.xml")</target>
+        </trans-unit>
+        <trans-unit id="options/max-fps-desc:0" translate="yes" approved="yes">
+          <source>Maximum frame rate in Hz.</source>
+          <target>Задать ограничение частоты кадров в Гц.</target>
+        </trans-unit>
+        <trans-unit id="options/metar-desc:0" translate="yes" approved="yes">
+          <source>Pass a METAR string to set up static weather (this implies --disable-real-weather-fetch)</source>
+          <target>Задать погоду строкой METAR (автоматически задаёт также "--disable-real-weather-fetch")</target>
+        </trans-unit>
+        <trans-unit id="options/min-aircraft-status:0" translate="yes" approved="yes">
+          <source>Allows you to define a minimum status level (=development status) for all listed aircraft</source>
+          <target>Задать минимальную оценку (уровень проработки) для списка ЛА</target>
+        </trans-unit>
+        <trans-unit id="options/model-hz-desc:0" translate="yes" approved="yes">
+          <source>Run the FDM this rate (iterations per second)</source>
+          <target>Частота итераций динамики, Гц</target>
+        </trans-unit>
+        <trans-unit id="options/multiplay-desc:0" translate="yes" approved="yes">
+          <source>Specify multipilot communication settings</source>
+          <target>Задать параметры сети</target>
+        </trans-unit>
+        <trans-unit id="options/multiplayer-options:0" translate="yes" approved="yes">
+          <source>MultiPlayer Options</source>
+          <target>Сеть</target>
+        </trans-unit>
+        <trans-unit id="options/native-ctrls-desc:0" translate="yes" approved="yes">
+          <source>Open connection using the FG Native Controls protocol</source>
+          <target>Начать соединение с протоколом "FG Native Controls"</target>
+        </trans-unit>
+        <trans-unit id="options/native-desc:0" translate="yes" approved="yes">
+          <source>Open connection using the FG Native protocol</source>
+          <target>Начать соединение с протоколом "FG Native protocol"</target>
+        </trans-unit>
+        <trans-unit id="options/native-fdm-desc:0" translate="yes" approved="yes">
+          <source>Open connection using the FG Native FDM protocol</source>
+          <target>Начать соединение с протоколом "FG Native FDM"</target>
+        </trans-unit>
+        <trans-unit id="options/native-gui-desc:0" translate="yes" approved="yes">
+          <source>Open connection using the FG Native GUI protocol</source>
+          <target>Начать соединение с протоколом "FG Native GUI"</target>
+        </trans-unit>
+        <trans-unit id="options/nav1-desc:0" translate="yes" approved="yes">
+          <source>Set the NAV1 radio frequency, optionally preceded by a radial.</source>
+          <target>Задать частоту ВОР/ИЛС1, перед ней можно указать направление.</target>
+        </trans-unit>
+        <trans-unit id="options/nav2-desc:0" translate="yes" approved="yes">
+          <source>Set the NAV2 radio frequency, optionally preceded by a radial.</source>
+          <target>Задать частоту ВОР/ИЛС2, перед ней можно указать направление.</target>
+        </trans-unit>
+        <trans-unit id="options/ndb-desc:0" translate="yes" approved="yes">
+          <source>Specify starting position relative to an NDB</source>
+          <target>Задать начальное положение относительно ПРС</target>
+        </trans-unit>
+        <trans-unit id="options/ndb-freq-desc:0" translate="yes" approved="yes">
+          <source>Specify the frequency of the NDB. Use with --ndb=ID</source>
+          <target>Задать частоту ПРС. Используется с "--ndb=позывной"</target>
+        </trans-unit>
+        <trans-unit id="options/network-options:0" translate="yes" approved="yes">
+          <source>Network Options</source>
+          <target>Сеть</target>
+        </trans-unit>
+        <trans-unit id="options/nmea-desc:0" translate="yes" approved="yes">
+          <source>Open connection using the NMEA protocol</source>
+          <target>Начать соединение с протоколом "NMEA"</target>
+        </trans-unit>
+        <trans-unit id="options/notrim-desc:0" translate="yes" approved="yes">
+          <source>Do NOT attempt to trim the model</source>
+          <target>Не пытаться триммировать модель</target>
+        </trans-unit>
+        <trans-unit id="options/notrim-desc:1" translate="yes" approved="yes">
+          <source>(only with fdm=jsbsim)</source>
+          <target>(работает только с "--fdm=jsbsim")</target>
+        </trans-unit>
+        <trans-unit id="options/offset-azimuth-desc:0" translate="yes" approved="yes">
+          <source>Specify heading to reference point</source>
+          <target>Задать азимут на точку</target>
+        </trans-unit>
+        <trans-unit id="options/offset-distance-desc:0" translate="yes" approved="yes">
+          <source>Specify distance to reference point (statute miles)</source>
+          <target>Задать расстояние до точки (в сухопутных милях)</target>
+        </trans-unit>
+        <trans-unit id="options/on-ground-desc:0" translate="yes" approved="yes">
+          <source>Start at ground level (default)</source>
+          <target>Начать симуляцию на земле (по умолчанию)</target>
+        </trans-unit>
+        <trans-unit id="options/opengc-desc:0" translate="yes" approved="yes">
+          <source>Open connection using the OpenGC protocol</source>
+          <target>Начать соединение с протоколом "OpenGC"</target>
+        </trans-unit>
+        <trans-unit id="options/parking-id-desc:0" translate="yes" approved="yes">
+          <source>Specify parking position at an airport (must also specify an airport)</source>
+          <target>Задать место стоянки на аэродроме (который должен быть указан)</target>
+        </trans-unit>
+        <trans-unit id="options/parkpos-desc:0" translate="yes" approved="yes">
+          <source>Specify which starting position on an AI carrier (must also specify a carrier)</source>
+          <target>Задать начальное положение на ИИ-авианосце (который должен быть указан)</target>
+        </trans-unit>
+        <trans-unit id="options/pitch-desc:0" translate="yes" approved="yes">
+          <source>Specify pitch angle (Theta)</source>
+          <target>Задать угол тангажа (θ)</target>
+        </trans-unit>
+        <trans-unit id="options/position-options:0" translate="yes" approved="yes">
+          <source>Initial Position and Orientation</source>
+          <target>Начальные положение и ориентация</target>
+        </trans-unit>
+        <trans-unit id="options/prop-desc:0" translate="yes" approved="yes">
+          <source>Set property &lt;name&gt; to &lt;value&gt;. &lt;type&gt; can be one of string, double, float, long, int, or bool.</source>
+          <target>Присвоить переменой "property" &lt;name&gt; значение &lt;value&gt;. Возможные типы &lt;type&gt;: "string", "double", "float", "long", "int" или "bool".</target>
+        </trans-unit>
+        <trans-unit id="options/props-desc:0" translate="yes" approved="yes">
+          <source>Open connection using the interactive property manager</source>
+          <target>Начать соединение, используя интерактивный редактор дерева переменных "property"</target>
+        </trans-unit>
+        <trans-unit id="options/proxy-desc:0" translate="yes" approved="yes">
+          <source>Specify which proxy server (and port) to use. The username and password are optional and should be MD5 encoded already. This option is only useful when used in conjunction with the real-weather-fetch option.</source>
+          <target>Задать прокси-сервер (и порт). Имя пользователя и пароль необязательны и должны быть закодированы в MD5. Этот параметр применим только к параметру "real-weather-fetch".</target>
+        </trans-unit>
+        <trans-unit id="options/pve-desc:0" translate="yes" approved="yes">
+          <source>Open connection using the PVE protocol</source>
+          <target>Начать соединение с протоколом "PVE"</target>
+        </trans-unit>
+        <trans-unit id="options/random-objects-desc:0" translate="yes" approved="yes">
+          <source>(buildings, etc.)</source>
+          <target>(строения и проч.)</target>
+        </trans-unit>
+        <trans-unit id="options/random-wind-desc:0" translate="yes" approved="yes">
+          <source>Set up random wind direction and speed</source>
+          <target>Задать случайные направление и скорость ветра</target>
+        </trans-unit>
+        <trans-unit id="options/ray-desc:0" translate="yes" approved="yes">
+          <source>Open connection using the Ray Woodworth motion chair protocol</source>
+          <target>Начать соединение с протоколом для подвижного кресла"Ray Woodworth"</target>
+        </trans-unit>
+        <trans-unit id="options/rendering-options:0" translate="yes" approved="yes">
+          <source>Rendering Options</source>
+          <target>Видео</target>
+        </trans-unit>
+        <trans-unit id="options/restore-defaults-desc:0" translate="yes" approved="yes">
+          <source>Reset all user settings to their defaults (rendering options etc)</source>
+          <target>Сбросить все пользовательские настройки (настройки видео и проч.)</target>
+        </trans-unit>
+        <trans-unit id="options/roc-desc:0" translate="yes" approved="yes">
+          <source>Specify initial climb rate (can be negative)</source>
+          <target>Задать начальную вертикальную скорость (может быть положительной или отрицательной)</target>
+          <note from="translator">FIXME Original only says "can  be negative"</note>
+        </trans-unit>
+        <trans-unit id="options/roll-desc:0" translate="yes" approved="yes">
+          <source>Specify roll angle (Phi)</source>
+          <target>Задать угол крена (φ)</target>
+        </trans-unit>
+        <trans-unit id="options/route-options:0" translate="yes" approved="yes">
+          <source>Route/Way Point Options</source>
+          <target>Маршрут и пункты маршрута</target>
+        </trans-unit>
+        <trans-unit id="options/rul-desc:0" translate="yes" approved="yes">
+          <source>Open connection using the RUL protocol</source>
+          <target>Начать соединение с протоколом "RUL"</target>
+        </trans-unit>
+        <trans-unit id="options/runway-no-desc:0" translate="yes" approved="yes">
+          <source>Specify starting runway (must also specify an airport)</source>
+          <target>Задать начальную ВПП (аэродром должен быть указан)</target>
+        </trans-unit>
+        <trans-unit id="options/season-desc:0" translate="yes" approved="yes">
+          <source>Specify the startup season</source>
+          <target>Задать время года</target>
+        </trans-unit>
+        <trans-unit id="options/shading-flat-desc:0" translate="yes" approved="yes">
+          <source>Enable flat shading</source>
+          <target>Включить плоское затенение</target>
+        </trans-unit>
+        <trans-unit id="options/shading-smooth-desc:0" translate="yes" approved="yes">
+          <source>Enable smooth shading</source>
+          <target>Включить гладкое затенение</target>
+        </trans-unit>
+        <trans-unit id="options/show-aircraft-desc:0" translate="yes" approved="yes">
+          <source>Print a list of the currently available aircraft types</source>
+          <target>Вывести список доступных типов ЛА</target>
+        </trans-unit>
+        <trans-unit id="options/show-sound-devices-desc:0" translate="yes" approved="yes">
+          <source>Show a list of available audio device</source>
+          <target>Показать список доступных звуковых устройств</target>
+        </trans-unit>
+        <trans-unit id="options/situation-options:0" translate="yes" approved="yes">
+          <source>Situation Options</source>
+          <target>Обстановка</target>
+        </trans-unit>
+        <trans-unit id="options/sound-device-desc:0" translate="yes" approved="yes">
+          <source>Explicitly specify the audio device to use</source>
+          <target>Выбрать звуковое устройство</target>
+        </trans-unit>
+        <trans-unit id="options/speed-desc:0" translate="yes" approved="yes">
+          <source>Run the FDM 'n' times faster than real time</source>
+          <target>Ускорить выполнение модели динамики в указанное число раз</target>
+        </trans-unit>
+        <trans-unit id="options/start-date-desc:0" translate="yes" approved="yes">
+          <source>Specify a starting date/time with respect to</source>
+          <target>Задать начальные дату/время по отношению к</target>
+        </trans-unit>
+        <trans-unit id="options/telnet-desc:0" translate="yes" approved="yes">
+          <source>Enable telnet server on the specified port</source>
+          <target>Включить сервер telnet на указанном порту</target>
+        </trans-unit>
+        <trans-unit id="options/terrasync-dir-desc:0" translate="yes" approved="yes">
+          <source>Set target directory for scenery downloads</source>
+          <target>Задать директорию для загрузки местности</target>
+        </trans-unit>
+        <trans-unit id="options/texture-filtering-desc:0" translate="yes" approved="yes">
+          <source>Anisotropic Texture Filtering: values should be 1 (default),2,4,8 or 16</source>
+          <target>Анизотропное фильтрование текстур, допустимые значения: 1 (по умолчанию),2,4,8 или 16</target>
+        </trans-unit>
+        <trans-unit id="options/time-match-local-desc:0" translate="yes" approved="yes">
+          <source>Synchronize time with local real-world time</source>
+          <target>Синхронизировать время с местным временем</target>
+        </trans-unit>
+        <trans-unit id="options/time-match-real-desc:0" translate="yes" approved="yes">
+          <source>Synchronize time with real-world time</source>
+          <target>Синхронизировать время с реальным</target>
+        </trans-unit>
+        <trans-unit id="options/time-offset-desc:0" translate="yes" approved="yes">
+          <source>Add this time offset</source>
+          <target>Сдвиг времени</target>
+        </trans-unit>
+        <trans-unit id="options/time-options:0" translate="yes" approved="yes">
+          <source>Time Options</source>
+          <target>Время</target>
+        </trans-unit>
+        <trans-unit id="options/timeofday-desc:0" translate="yes" approved="yes">
+          <source>Specify a time of day</source>
+          <target>Задать время суток</target>
+        </trans-unit>
+        <trans-unit id="options/trace-read-desc:0" translate="yes" approved="yes">
+          <source>Trace the reads for a property;</source>
+          <target>Отслеживать чтение переменной "property"</target>
+          <note from="translator">FIXME Original ends with semicolon</note>
+        </trans-unit>
+        <trans-unit id="options/trace-write-desc:0" translate="yes" approved="yes">
+          <source>Trace the writes for a property;</source>
+          <target>Отслеживать запись переменной "property"</target>
+          <note from="translator">FIXME Original ends with semicolon</note>
+        </trans-unit>
+        <trans-unit id="options/trim-desc:0" translate="yes" approved="yes">
+          <source>Trim the model</source>
+          <target>Триммировать модель</target>
+        </trans-unit>
+        <trans-unit id="options/trim-desc:1" translate="yes" approved="yes">
+          <source>(only with fdm=jsbsim)</source>
+          <target>(работает только с "--fdm=jsbsim")</target>
+        </trans-unit>
+        <trans-unit id="options/turbulence-desc:0" translate="yes" approved="yes">
+          <source>Specify turbulence from 0.0 (calm) to 1.0 (severe)</source>
+          <target>Задать турбулентность от 0.0 (нет) to 1.0 (сильная)</target>
+        </trans-unit>
+        <trans-unit id="options/uBody-desc:0" translate="yes" approved="yes">
+          <source>Specify velocity along the body X axis</source>
+          <target>Задать составляющую скорости по оси X ЛА</target>
+        </trans-unit>
+        <trans-unit id="options/units-feet-desc:0" translate="yes" approved="yes">
+          <source>Use feet for distances</source>
+          <target>Показывать расстояния в футах</target>
+        </trans-unit>
+        <trans-unit id="options/units-meters-desc:0" translate="yes" approved="yes">
+          <source>Use meters for distances</source>
+          <target>Показывать расстояния в метрах</target>
+        </trans-unit>
+        <trans-unit id="options/usage:0" translate="yes" approved="yes">
+          <source>Usage: fgfs [ option ... ]</source>
+          <target>Пример использования:fgfs [ option ... ]</target>
+        </trans-unit>
+        <trans-unit id="options/vBody-desc:0" translate="yes" approved="yes">
+          <source>Specify velocity along the body Y axis</source>
+          <target>Задать составляющую скорости по оси Y ЛА</target>
+        </trans-unit>
+        <trans-unit id="options/vDown-desc:0" translate="yes" approved="yes">
+          <source>Specify velocity along a vertical axis</source>
+          <target>Задать вертикальную составляющую скорости</target>
+        </trans-unit>
+        <trans-unit id="options/vEast-desc:0" translate="yes" approved="yes">
+          <source>Specify velocity along a West-East axis</source>
+          <target>Задать восточную составляющую скорости</target>
+        </trans-unit>
+        <trans-unit id="options/vNorth-desc:0" translate="yes" approved="yes">
+          <source>Specify velocity along a South-North axis</source>
+          <target>Задать северную составляющую скорости</target>
+        </trans-unit>
+        <trans-unit id="options/vc-desc:0" translate="yes" approved="yes">
+          <source>Specify initial airspeed</source>
+          <target>Задать начальную воздушную скорость</target>
+        </trans-unit>
+        <trans-unit id="options/vehicle-desc:0" translate="yes" approved="yes">
+          <source>Select an vehicle profile as defined by a top level &lt;name&gt;-set.xml</source>
+          <target>Выбрать тип транспортного средства по названию &lt;тип&gt;-set.xml</target>
+        </trans-unit>
+        <trans-unit id="options/verbose-desc:0" translate="yes" approved="yes">
+          <source>Show all command line options when combined with --help or -h</source>
+          <target>Показать все параметры командной строки при использовании с "--help" или "-h"</target>
+        </trans-unit>
+        <trans-unit id="options/verbose-help:0" translate="yes" approved="yes">
+          <source>For a complete list of options use --help --verbose</source>
+          <target>Вывести полный список параметров: "--help --verbose"</target>
+        </trans-unit>
+        <trans-unit id="options/version-desc:0" translate="yes" approved="yes">
+          <source>Display the current FlightGear version</source>
+          <target>Отобразить версию FlightGear</target>
+        </trans-unit>
+        <trans-unit id="options/view-offset-desc:0" translate="yes" approved="yes">
+          <source>Specify the default forward view direction as an offset from straight ahead. Allowable values are LEFT, RIGHT, CENTER, or a specific number in degrees</source>
+          <target>Задать направление взгляда вперёд по отношению к исходному. Допустимые значения: "LEFT", "RIGHT", "CENTER", или число градусов</target>
+        </trans-unit>
+        <trans-unit id="options/visibility-desc:0" translate="yes" approved="yes">
+          <source>Specify initial visibility</source>
+          <target>Задать начальную видимость в метрах</target>
+        </trans-unit>
+        <trans-unit id="options/visibility-miles-desc:0" translate="yes" approved="yes">
+          <source>Specify initial visibility in miles</source>
+          <target>Задать начальную видимость в милях</target>
+        </trans-unit>
+        <trans-unit id="options/vor-desc:0" translate="yes" approved="yes">
+          <source>Specify starting position relative to a VOR</source>
+          <target>Задать начальное положение относительно маяка ВОР</target>
+        </trans-unit>
+        <trans-unit id="options/vor-freq-desc:0" translate="yes" approved="yes">
+          <source>Specify the frequency of the VOR. Use with --vor=ID</source>
+          <target>Задать частоту маяка ВОР. Используется с "--vor=позывной"</target>
+        </trans-unit>
+        <trans-unit id="options/wBody-desc:0" translate="yes" approved="yes">
+          <source>Specify velocity along the body Z axis</source>
+          <target>Задать составляющую скорости по оси Z ЛА</target>
+        </trans-unit>
+        <trans-unit id="options/wind-desc:0" translate="yes" approved="yes">
+          <source>Specify wind coming from DIR (degrees) at SPEED (knots)</source>
+          <target>Задать ветер с направления DIR градусов на скорости SPEED узлов</target>
+        </trans-unit>
+        <trans-unit id="options/wp-desc:0" translate="yes" approved="yes">
+          <source>Specify a waypoint for the GC autopilot;</source>
+          <target>Указать точку маршрута для автопилота</target>
+          <note from="translator">XXX What is "GC"? FIXME Original ends with semicolon</note>
+        </trans-unit>
+      </group>
+      <group restype="x-trolltech-linguist-context" resname="sys">
+        <trans-unit id="sys/binding-subsystems:0" translate="yes" approved="yes">
+          <source>binding subsystems</source>
+          <target>связываю подсистемы</target>
+        </trans-unit>
+        <trans-unit id="sys/creating-subsystems:0" translate="yes" approved="yes">
+          <source>creating subsystems</source>
+          <target>создаю подсистемы</target>
+        </trans-unit>
+        <trans-unit id="sys/downloading-scenery:0" translate="yes" approved="yes">
+          <source>downloading scenery</source>
+          <target>обновляю местность</target>
+        </trans-unit>
+        <trans-unit id="sys/finalize-position:0" translate="yes" approved="yes">
+          <source>finalizing position</source>
+          <target>заканчиваю подготовку позиции</target>
+        </trans-unit>
+        <trans-unit id="sys/finishing-subsystems:0" translate="yes" approved="yes">
+          <source>finalizing subsystems</source>
+          <target>заканчиваю подготовку подсистем</target>
+        </trans-unit>
+        <trans-unit id="sys/init:0" translate="yes" approved="yes">
+          <source>initializing</source>
+          <target>подготовка</target>
+        </trans-unit>
+        <trans-unit id="sys/init-graphics:0" translate="yes" approved="yes">
+          <source>initializing graphics engine</source>
+          <target>подготавливаю графику</target>
+        </trans-unit>
+        <trans-unit id="sys/init-scenery:0" translate="yes" approved="yes">
+          <source>initializing scenery</source>
+          <target>подготавливаю местность</target>
+        </trans-unit>
+        <trans-unit id="sys/init-subsystems:0" translate="yes" approved="yes">
+          <source>initializing subsystems</source>
+          <target>подготавливаю подсистемы</target>
+        </trans-unit>
+        <trans-unit id="sys/loading-aircraft:0" translate="yes" approved="yes">
+          <source>loading aircraft</source>
+          <target>загружаю ЛА</target>
+        </trans-unit>
+        <trans-unit id="sys/loading-aircraft-list:0" translate="yes" approved="yes">
+          <source>loading aircraft list</source>
+          <target>загружаю список ЛА</target>
+        </trans-unit>
+        <trans-unit id="sys/loading-nav-dat:0" translate="yes" approved="yes">
+          <source>loading navigation data</source>
+          <target>загружаю навигационные данные</target>
+        </trans-unit>
+        <trans-unit id="sys/loading-scenery:0" translate="yes" approved="yes">
+          <source>loading scenery</source>
+          <target>загружаю местность</target>
+        </trans-unit>
+        <trans-unit id="sys/navdata-fixes:0" translate="yes" approved="yes">
+          <source>loading fixes</source>
+          <target>загружаю навигационные точки</target>
+        </trans-unit>
+        <trans-unit id="sys/navdata-load-percent:0" translate="yes" approved="yes">
+          <source>[VALUE]% complete</source>
+          <target>выполнено [VALUE]%</target>
+        </trans-unit>
+        <trans-unit id="sys/navdata-loading-airports:0" translate="yes" approved="yes">
+          <source>loading airport data</source>
+          <target>загружаю данные аэродромов</target>
+        </trans-unit>
+        <trans-unit id="sys/navdata-navaids:0" translate="yes" approved="yes">
+          <source>loading navigation aid data</source>
+          <target>загружаю данные радионавигационных средств</target>
+        </trans-unit>
+        <trans-unit id="sys/navdata-pois:0" translate="yes" approved="yes">
+          <source>loading points of interest</source>
+          <target>загружаю ориентиры</target>
+        </trans-unit>
+        <trans-unit id="sys/navdata-reading-apt-dat-files:0" translate="yes" approved="yes">
+          <source>reading airport data</source>
+          <target>читаю данные аэродромов</target>
+        </trans-unit>
+        <trans-unit id="sys/scenery-extract:0" translate="yes" approved="no">
+          <source>extracting [VALUE]</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="sys/settings-migration-text:0" translate="yes" approved="yes">
+          <source>Saved settings were migrated from a previous version of FlightGear. If you encounter any problems when using the system, try restoring the default settings, before reporting a problem. Saved settings can affect the appearance, performance and features of the simulator.</source>
+          <target>Настройки были скопированы с предыдущей версии FlightGear. Если возникнут проблемы, попробуйте сбросить настройки перед тем как сообщать о них. Сохранённые настройки могут влиять на внешний вид, производительность и функции симулятора.</target>
+        </trans-unit>
+        <trans-unit id="sys/settings-migration-title:0" translate="yes" approved="yes">
+          <source>Settings migrated</source>
+          <target>Перенос настроек</target>
+        </trans-unit>
+        <trans-unit id="sys/unstable-warning:0" translate="yes" approved="yes">
+          <source>Unstable nightly build - some features may be under active development</source>
+          <target>Нестабильная сборка "nightly" - некоторые функции могут находиться в разработке</target>
+        </trans-unit>
+      </group>
+      <group restype="x-trolltech-linguist-context" resname="tips">
+        <trans-unit id="tips/tip:0" translate="yes" approved="yes">
+          <source>Drag while holding the right mouse button to look around</source>
+          <target>Cмотреть по сторонам можно удерживая ПКМ</target>
+        </trans-unit>
+        <trans-unit id="tips/tip:1" translate="yes" approved="yes">
+          <source>Hold [Shift] while looking around to move the view up, down, left or right</source>
+          <target>Перемещать камеру можно удерживая Shift при управлении взглядом</target>
+        </trans-unit>
+        <trans-unit id="tips/tip:2" translate="yes" approved="yes">
+          <source>Press a/A to adjust the simulation speed</source>
+          <target>Ускорение времени управляется клавишей a или A</target>
+        </trans-unit>
+        <trans-unit id="tips/tip:3" translate="yes" approved="yes">
+          <source>Press x/X to zoom in and out</source>
+          <target>Угол обзора можно изменить клавишей x или X</target>
+        </trans-unit>
+        <trans-unit id="tips/tip:4" translate="yes" approved="yes">
+          <source>Find frequencies of nearby ATC services from the Radios dialog</source>
+          <target>Частоты доступных наземных служб можно узнать в диалоге "Настройки радио"</target>
+        </trans-unit>
+        <trans-unit id="tips/tip:5" translate="yes" approved="yes">
+          <source>Press v to change your viewpoint, Ctrl-V to return to the cockpit</source>
+          <target>Переключение видов: v или V. Быстро вернуться в кабину: Control-V</target>
+        </trans-unit>
+        <trans-unit id="tips/tip:6" translate="yes" approved="yes">
+          <source>Press F3 to take a screenshot</source>
+          <target>Снимок экрана можно сделать нажатием F3</target>
+        </trans-unit>
+        <trans-unit id="tips/tip:7" translate="yes" approved="yes">
+          <source>Join the FlightGear community at http://forum.flightgear.org</source>
+          <target>Присоединяйтесь к сообществу FlightGear на http://forum.flightgear.org</target>
+        </trans-unit>
+        <trans-unit id="tips/tip:8" translate="yes" approved="yes">
+          <source>Press h to bring up a Heads Up Display</source>
+          <target>HUD можно показать нажатием h</target>
+        </trans-unit>
+        <trans-unit id="tips/tip:9" translate="yes" approved="yes">
+          <source>Show or hide the menu bar by pressing F10</source>
+          <target>Показать или скрыть меню: нажмите F10</target>
+        </trans-unit>
+        <trans-unit id="tips/tip:10" translate="yes" approved="yes">
+          <source>Frame-rate too low? - try disabling AI traffic</source>
+          <target>Слишком низкая частота кадров? Попробуйте отключить ИИ-трафик</target>
+        </trans-unit>
+        <trans-unit id="tips/tip:11" translate="yes" approved="yes">
+          <source>Select Environment → Weather to fly in different weather</source>
+          <target>Настроить погоду можно в диалоге "Условия → Погода"</target>
+        </trans-unit>
+        <trans-unit id="tips/tip:12" translate="yes" approved="yes">
+          <source>Press F12 to change the radio frequencies easily</source>
+          <target>Упрощённая настройка радио: нажмите F12</target>
+        </trans-unit>
+        <trans-unit id="tips/tip:13" translate="yes" approved="yes">
+          <source>Look around by holding down the right mouse button and moving the mouse</source>
+          <target>Cмотреть по сторонам можно удерживая ПКМ</target>
+        </trans-unit>
+        <trans-unit id="tips/tip:14" translate="yes" approved="yes">
+          <source>Select Multiplayer → Multiplayer Settings to join the shared flight environment</source>
+          <target>Присоединиться к сетевому режиму можно в диалоге "Сеть → Настройки сети"</target>
+        </trans-unit>
+        <trans-unit id="tips/tip:15" translate="yes" approved="yes">
+          <source>Can't get the engine started? - see Help → Aircraft Checklists</source>
+          <target>Не запускается двигатель? Посмотрите "Помощь → Контрольные карты проверок"</target>
+        </trans-unit>
+        <trans-unit id="tips/tip:16" translate="yes" approved="yes">
+          <source>Drag while holding the middle and right mouse buttons to move the viewpoint</source>
+          <target>Перемещать камеру можно удерживая СКМ и ПКМ</target>
+        </trans-unit>
+        <trans-unit id="tips/tip:17" translate="yes" approved="yes">
+          <source>Press / to explore the internals of the simulator</source>
+          <target>Доступ к переменным "property" симулятора: нажмите /</target>
+        </trans-unit>
+        <trans-unit id="tips/tip:18" translate="yes" approved="yes">
+          <source>Press Tab to move the viewpoint with your mouse and use the scroll wheel to zoom</source>
+          <target>Чтобы перемещать камеру мышью и изменять угол обзора вращая КМ, нажмите Tab</target>
+        </trans-unit>
+      </group>
+      <group restype="x-trolltech-linguist-context" resname="weather-scenarios">
+        <trans-unit id="weather-scenarios/border-high-pressure-region-desc:0" translate="yes" approved="yes">
+          <source>The border of a high pressure region, in which the airmass becomes unstable and various convective and stratiform clouds may appear.</source>
+          <target>На границе области высокого давления воздушные массы становятся неустойчивыми, может появляться разная конвективная и слоистая облачность.</target>
+        </trans-unit>
+        <trans-unit id="weather-scenarios/border-high-pressure-region-name:0" translate="yes" approved="yes">
+          <source>Border of a high pressure region</source>
+          <target>Граница области ВД</target>
+        </trans-unit>
+        <trans-unit id="weather-scenarios/border-low-pressure-region-desc:0" translate="yes" approved="yes">
+          <source>The border of a low pressure region, in which the airmass is unstable and convective clouds start to form layers and merge into stratiform clouds.</source>
+          <target>На границе области низкого давления воздушные массы неустойчивы, конвективная облачность начинает собираться в слои, переходя в слоистую.</target>
+        </trans-unit>
+        <trans-unit id="weather-scenarios/border-low-pressure-region-name:0" translate="yes" approved="yes">
+          <source>Border of a low pressure region</source>
+          <target>Граница области НД</target>
+        </trans-unit>
+        <trans-unit id="weather-scenarios/cat-one-minimum-desc:0" translate="yes" approved="yes">
+          <source>If you just got your IFR rating, this is what you are allowed to do. But can you?</source>
+          <target>В такую погоду можно летать, только что получив допуск к полётам по приборам. Хотите попробовать?</target>
+        </trans-unit>
+        <trans-unit id="weather-scenarios/cat-one-minimum-name:0" translate="yes" approved="yes">
+          <source>CAT I minimum</source>
+          <target>Метеоминимум I кат.</target>
+        </trans-unit>
+        <trans-unit id="weather-scenarios/cat-three-b-minimum-desc:0" translate="yes" approved="yes">
+          <source>This is expert level. You will barely see the taxiway from the cockpit, even if you are on ground. Fog and light drizzle, freezing level at 1000ft.</source>
+          <target>Задача для аса. Рулёжные дорожки едва видны из кабины, даже на земле. Туман и мелкий дождь, высота нулевой изотермы 1000 фт.</target>
+        </trans-unit>
+        <trans-unit id="weather-scenarios/cat-three-b-minimum-name:0" translate="yes" approved="yes">
+          <source>CAT IIIb minimum</source>
+          <target>Метеоминимум IIIb кат.</target>
+        </trans-unit>
+        <trans-unit id="weather-scenarios/cat-two-minimum-desc:0" translate="yes" approved="yes">
+          <source>With just a 1/4 mile visibility and clouds at 100ft, you don't see much of the runway until seconds before touchdown. Trust your instruments to stay alive.</source>
+          <target>С видимостью в 1/4 мили и облаками на 100 фт, ВПП появляется за секунды до приземления. Чтобы выжить, придётся доверять приборам.</target>
+        </trans-unit>
+        <trans-unit id="weather-scenarios/cat-two-minimum-name:0" translate="yes" approved="yes">
+          <source>CAT II minimum</source>
+          <target>Метеоминимум II кат.</target>
+        </trans-unit>
+        <trans-unit id="weather-scenarios/core-high-pressure-region-desc:0" translate="yes" approved="yes">
+          <source>The center of a high pressure region, characterized by descending air and hence only weak cloud development with high visibility.</source>
+          <target>Середина области высокого давления отличается нисходящим движением воздуха, ослабляющим формирование облаков и обеспечивающим хорошую видимость.</target>
+        </trans-unit>
+        <trans-unit id="weather-scenarios/core-high-pressure-region-name:0" translate="yes" approved="yes">
+          <source>Core high pressure region</source>
+          <target>Ядро области ВД</target>
+        </trans-unit>
+        <trans-unit id="weather-scenarios/core-low-pressure-region-desc:0" translate="yes" approved="yes">
+          <source>The core of a low pressure region, characterized by overcast clouds, bad visibility on the ground and significant rainfall.</source>
+          <target>Середина области низкого давления отличается сплошной облачностью, плохой видимостью у земли и большим количеством осадков.</target>
+        </trans-unit>
+        <trans-unit id="weather-scenarios/core-low-pressure-region-name:0" translate="yes" approved="yes">
+          <source>Core low pressure region</source>
+          <target>Ядро области НД</target>
+        </trans-unit>
+        <trans-unit id="weather-scenarios/early-morning-fog-desc:0" translate="yes" approved="yes">
+          <source>Fog developed this autumn's morning. Expect good visibility above the layer. However - getting through it can be a challenge. Stay alive for a 500' climb and you'll see the sun!</source>
+          <target>Туман, появившийся этим осенним утром. Над ним наверняка хорошая видимость, но до неё ещё нужно добраться. Переживите 500 фт набора, и увидите солнце!</target>
+        </trans-unit>
+        <trans-unit id="weather-scenarios/early-morning-fog-name:0" translate="yes" approved="yes">
+          <source>Early morning fog</source>
+          <target>Туманное раннее утро</target>
+        </trans-unit>
+        <trans-unit id="weather-scenarios/fair-weather-desc:0" translate="yes" approved="yes">
+          <source>A lovely day for trip to your favorite 100$ hamburger airfield</source>
+          <target>Прекрасный день для воздушных прогулок</target>
+        </trans-unit>
+        <trans-unit id="weather-scenarios/fair-weather-name:0" translate="yes" approved="yes">
+          <source>Fair weather</source>
+          <target>Ясно</target>
+        </trans-unit>
+        <trans-unit id="weather-scenarios/high-pressure-region-desc:0" translate="yes" approved="yes">
+          <source>A high pressure region, characterized by moderate to strong Cumulus development in the afternoon and fairly good visibility conditions.</source>
+          <target>Область высокого давления отличается умеренным до сильного образованием кучевых облаков днём и достаточно хорошей видимостью.</target>
+        </trans-unit>
+        <trans-unit id="weather-scenarios/high-pressure-region-name:0" translate="yes" approved="yes">
+          <source>High pressure region</source>
+          <target>Область высокого давления</target>
+        </trans-unit>
+        <trans-unit id="weather-scenarios/live-data-desc:0" translate="yes" approved="yes">
+          <source>Fetch live weather data for your nearest airport from noaa.gov. You need a working internet connection. Weather is generated automatically, once a valid METAR is received.</source>
+          <target>Получить данные о реальной погоде на ближайшем аэродроме от noaa.gov. Необходимо соединение с Интернет. Погода настраивается автоматически прт получении строки METAR.</target>
+        </trans-unit>
+        <trans-unit id="weather-scenarios/live-data-name:0" translate="yes" approved="yes">
+          <source>Live data</source>
+          <target>Реальная погода</target>
+        </trans-unit>
+        <trans-unit id="weather-scenarios/low-pressure-region-desc:0" translate="yes" approved="yes">
+          <source>A low pressure region, characterized by rising air, widespread formation of stratiform clouds and beginning rain.</source>
+          <target>Область низкого давления отличается восходящим движением воздуха. Во многих местах формируется слоистая облачность и начинается дождь.</target>
+        </trans-unit>
+        <trans-unit id="weather-scenarios/low-pressure-region-name:0" translate="yes" approved="yes">
+          <source>Low pressure region</source>
+          <target>Область низкого давления</target>
+        </trans-unit>
+        <trans-unit id="weather-scenarios/manual-input-desc:0" translate="yes" approved="yes">
+          <source>Enter your favorite METAR weather. A valid METAR syntax is required.</source>
+          <target>Введите желаемую строку METAR. Соблюдение синтаксиса обязательно.</target>
+        </trans-unit>
+        <trans-unit id="weather-scenarios/manual-input-name:0" translate="yes" approved="yes">
+          <source>Manual input</source>
+          <target>Заданная вручную</target>
+        </trans-unit>
+        <trans-unit id="weather-scenarios/marginal-vfr-desc:0" translate="yes" approved="yes">
+          <source>After the storm - limited visibility and some showers. Go or No-Go?</source>
+          <target>Ограниченная видимость c ливнями после бури. Решение о вылете — по ситуации.</target>
+        </trans-unit>
+        <trans-unit id="weather-scenarios/marginal-vfr-name:0" translate="yes" approved="yes">
+          <source>Marginal VFR</source>
+          <target>Минимум ПВП</target>
+        </trans-unit>
+        <trans-unit id="weather-scenarios/stormy-monday-desc:0" translate="yes" approved="yes">
+          <source>You're out for an adventure? Gusty winds blowing from the west and isolated thunderstorms should be avoided. Fasten your seatbelt!</source>
+          <target>Хочется приключений? Как насчёт порывистых западных ветров и отдельных гроз, в которые лучше не соваться? Пристегните ремни!</target>
+        </trans-unit>
+        <trans-unit id="weather-scenarios/stormy-monday-name:0" translate="yes" approved="yes">
+          <source>Stormy Monday</source>
+          <target>Сложный понедельник</target>
+        </trans-unit>
+        <trans-unit id="weather-scenarios/thunderstorm-desc:0" translate="yes" approved="yes">
+          <source>A hot and damp summer day with thunderstorms developing in the afternoon. Be prepared for reduction of visibility in showers and strong gusts near thunderstorms</source>
+          <target>Жаркий, сырой летний день с зарождающимися грозами. Будьте готовы к снижению видимости в ливнях и сильным порывам вблизи гроз.</target>
+          <note from="translator">FIXME: original does not end with a full stop</note>
+        </trans-unit>
+        <trans-unit id="weather-scenarios/thunderstorm-name:0" translate="yes" approved="yes">
+          <source>Thunderstorm</source>
+          <target>Гроза</target>
+        </trans-unit>
+        <trans-unit id="weather-scenarios/warm-sector-desc:0" translate="yes" approved="yes">
+          <source>A warm sector, characterized by high moisture in the air and haze extending up to high altitudes, but otherwise largely convective cloud development.</source>
+          <target>Тёплый сектор отличается высокой влажностью и дымкой вплоть до больших высот, образованием преимущественно конвективной облачности.</target>
+        </trans-unit>
+        <trans-unit id="weather-scenarios/warm-sector-name:0" translate="yes" approved="yes">
+          <source>Warm sector</source>
+          <target>Тёплый сектор</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
